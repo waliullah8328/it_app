@@ -11,6 +11,9 @@ class GridViewWidget extends StatelessWidget {
         centerTitle: true,
 
       ),
+
+
+      /// grid view.com
       body: GridView(
         padding: const EdgeInsets.all(12),
           gridDelegate: const SliverGridDelegateWithMaxCrossAxisExtent(
